@@ -1,4 +1,4 @@
-# Project Zomboid Dedicated Modded Server Setup (2025)
+# Project Zomboid Dedicated Modded Server Setup (B41) (2025)
 
 This guide will walk you through setting up a **Project Zomboid** modded server using Docker, from scratch. It assumes you're preparing the server on a Linux machine (e.g., Ubuntu), but configuration is done via a Windows machine using the in-game UI.
 
